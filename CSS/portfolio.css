@@ -1,0 +1,36 @@
+body{
+  background-image: url(http://bradybarr.com/wp-content/uploads/2013/07/parchment-background.jpg);
+}
+
+#header{
+background-color:#e6f2ff;
+border: solid 3px;
+float: center-block;
+font-family: trebuchet;
+margin-top: 20px;
+}
+
+#project{
+  border: #0063cc solid 2px;
+  padding: 10px;
+  margin: 20px;
+  font-size: 22px;
+  color: #004d00;
+}
+
+#about{
+  border: #1f7a1f solid 2px;
+  padding: 10px;
+  margin: 20px;
+  font-size: 22px;
+  color: #004d00;
+}
+
+h2{
+  color: #004080;
+  /*border: solid 2px;*/
+}
+
+p{
+  text-shadow: #ffd1b3 3px;
+}
