@@ -1,5 +1,5 @@
 body{
-  background-image: url(http://bradybarr.com/wp-content/uploads/2013/07/parchment-background.jpg);
+  background-color: #ffffe6;
 }
 
 #header{
@@ -33,4 +33,14 @@ h2{
 
 p{
   text-shadow: #ffd1b3 3px;
+}
+
+#image {
+  display: block;
+  margin: auto;
+  width: 60%;
+  width: 25%;
+  margin-top: 40px;
+  border-radius: 300px;
+  border: solid brown 3px;
 }
