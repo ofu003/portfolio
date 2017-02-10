@@ -11,24 +11,26 @@ margin-top: 20px;
 }
 
 #project{
-  border: #0063cc solid 2px;
-  padding: 10px;
-  margin: 20px;
   font-size: 22px;
   color: #004d00;
+  margin-top: 100px;
+  margin-left: 100px;
 }
 
 #about{
-  border: #1f7a1f solid 2px;
+  /*background-color: light gray;*/
+  float: right;
+  /*border: #1f7a1f solid 2px;*/
   padding: 10px;
-  margin: 20px;
+  margin-left: 10px;
   font-size: 22px;
   color: #004d00;
+  margin-top: 100px;
 }
 
 h2{
   color: #004080;
-  /*border: solid 2px;*/
+  font-size: 40px;
 }
 
 p{
@@ -38,9 +40,13 @@ p{
 #image {
   display: block;
   margin: auto;
-  width: 60%;
-  width: 25%;
-  margin-top: 40px;
+  width: 50%;
+  margin-top: 200px;
   border-radius: 300px;
   border: solid brown 3px;
+}
+
+.link
+{
+  cursor: crosshair;
 }
