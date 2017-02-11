@@ -10,6 +10,17 @@ font-family: trebuchet;
 margin-top: 20px;
 }
 
+#header h1{
+  font-size: 33px;
+}
+
+#header h3{
+  font-size: 27px;
+}
+
+#header p{
+  font-size: 22px;
+}
 #project{
   font-size: 22px;
   color: #004d00;
@@ -26,6 +37,10 @@ margin-top: 20px;
   font-size: 22px;
   color: #004d00;
   margin-top: 100px;
+}
+
+#about p{
+  font-size: 19px;
 }
 
 h2{
@@ -49,4 +64,8 @@ p{
 .link
 {
   cursor: crosshair;
+}
+
+.panelheading{
+  font-size: 33px;
 }
