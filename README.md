@@ -10,7 +10,12 @@ An about me page and what I have learned so far in programming.
 
 ## Setup/Installation Requirements
 
-Clone this repository or open the page from the gh-Page.
+Clone this [repository](https://github.com/ofu997/portfolio). 
+
+## Known Bugs
+
+* I had difficulty making a gh-Page for this project.
+* There is an extra bullet point in the last text container.
 
 
 ## Technologies Used
@@ -18,3 +23,7 @@ Clone this repository or open the page from the gh-Page.
 * HTML
 * CSS
 * Bootstrap
+
+## Licensing and Copyright
+
+Copyright (c) 2017 by Oliver Fu
