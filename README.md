@@ -10,7 +10,8 @@ An about me page and what I have learned so far in programming.
 
 ## Setup/Installation Requirements
 
-Clone this [repository](https://github.com/ofu997/portfolio). 
+Clone this [repository](https://github.com/ofu997/portfolio) or open the index.html file. 
+[Here](https://ofu997.github.io/portfolio/) is the link to the gh-Pages live site. 
 
 ## Known Bugs
 
